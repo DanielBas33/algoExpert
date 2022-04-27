@@ -38,7 +38,7 @@ array = `[2,3,5,5,6,8,9]`
 On each iteration we swap elements when the pointer is bigger than the pointer + 1. This goes on until we have an iteration with 0 swaps and then we know the array is completely sorted.
 
 
-### Implementation 1
+### Implementation 
 
 ```python
 def bubbleSort(array):
@@ -68,7 +68,7 @@ def swap(i, j, array):
 
 If we take a look at the different iterations we can see that the biggest number always ends up at the end. Knowing this we can just create a counter and avoid the already sorted part of the array. This does not change the time or space complexities but it is slightly better than the first approach.
 
-### Implementation 2 
+### Implementation 
 
 ```python
 def bubbleSort(array):
