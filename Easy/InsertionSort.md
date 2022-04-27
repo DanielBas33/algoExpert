@@ -9,7 +9,7 @@ Given an array of integers, I am asked to write a function that uses Insertion S
 
 ### Approach 
 
-The insertion sort is one of many sorting algorithms and although it is not the most eficient it does the job and it is easy to understand and implement. To implement it we will create a space at the begening of the array which will be our sorted array. Then we will iterate through the array and we will insert each element this new soretd array.
+The insertion sort is one of many sorting algorithms and although it is not the most eficient it does the job and it is easy to understand and implement. To implement it we will create a space at the beginning of the array which will be our sorted array. Then we will iterate through the array and we will insert each element this new soretd array.
 
 Example:
 
