@@ -1,2 +1,2 @@
-# algoExpert
-My solutions to algoExpert.io coding questions
+# AlgoExpert
+My solutions to [algoExpert.io](https://algoexpert.io) coding questions
