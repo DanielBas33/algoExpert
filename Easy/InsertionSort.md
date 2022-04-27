@@ -7,7 +7,7 @@ Given an array of integers, I am asked to write a function that uses Insertion S
 #
 
 
-### Approach : Iterative
+### Approach 
 
 The insertion sort is one of many sorting algorithms and although it is not the most eficient it does the job and it is easy to understand and implement. To implement it we will create a space at the begening of the array which will be our sorted array. Then we will iterate through the array and we will insert each element this new soretd array.
 
@@ -55,7 +55,7 @@ def swap(i, j, array):
 
 ### Complexity Analysis
 
-- Time Complexity: O($$N^2$$), where N is the number of integers in the input array.
+- Time Complexity: O(N^2), where N is the number of integers in the input array.
 
 - Space Complexity: O(1). We use the same array that we were given by just swaping some numbers.
 
