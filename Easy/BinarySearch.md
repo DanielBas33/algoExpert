@@ -69,8 +69,3 @@ def binarySearchHelper(array, target, left, right):
 
 #
 
-### Complexity Analysis
-
-- Time Complexity: O(log(N)), where N is the number of integers in the input array.
-
-- Space Complexity: O(1).
