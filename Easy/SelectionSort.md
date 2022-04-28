@@ -1,4 +1,4 @@
-# Insertion Sort
+# Selection Sort
 
 ### Understanding the problem
 
@@ -17,17 +17,17 @@ Starting point: unsorted
 
 array = `[8,5,2,9,5,6,3]`
 
-Step 1: `[5,8]` is sorted
-
-array = `[5,8,2,9,5,6,3]`
-
-Step 2: `[2,5,8]` is sorted
+Step 1: swap 2 and 8
 
 array = `[2,5,8,9,5,6,3]`
 
-Step 3: `[2,5,8,9]` is sorted
+Step 2: swap 3 and 5
 
-array = `[2,5,8,9,5,6,3]`
+array = `[2,3,8,9,5,6,5]`
+
+Step 3: swap 8 and 5
+
+array = `[2,3,5,9,8,6,5]`
 
 ...
 
@@ -35,22 +35,26 @@ Final array: sorted
 
 array = `[2,3,5,5,6,8,9]`
 
-On each iteration we insert one element to our sorted array until every element is sorted.
+On each iteration we insert the smallest number from the array to the sorted array until every number is on the sorted array.
 
 
 ### Implementation
 
 ```python
-def insertionSort(array):
-    for i in range(len(array))
-        j = i
-        while j > 0 and array[j] < array[j-1]
-            swap(j, j-1, array)
-            j -= 1
-	return array
+def selectionSort(array):
+    currentIdx = 0
+	while currentIdx < len(array) - 1:
+		smallestIdx = currentIdx
+		for i in range(currentIdx + 1, len(array)):
+			if array[i] < array[smallestIdx]:
+				smallestIdx = i
+		swap(smallestIdx, currentIdx, array)
+		currentIdx += 1
+	
+    return array
 
 def swap(i, j, array):
-    array[i], array[j] = array[j], array[i]
+	array[i], array[j] = array[j], array[i]
 ```
 
 ### Complexity Analysis
