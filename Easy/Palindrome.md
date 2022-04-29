@@ -2,7 +2,9 @@
 
 ### Understanding the problem
 
-Given a string, I am asked to write a function that checkes if the string is a Palindrome or not. Return true if it is and false if it is not. A palindrome is a string that is equal when read from left to right or right to left. 
+Given a string, I am asked to write a function that checkes if the string is a Palindrome or not. Return true if it is and false if it is not. 
+
+A palindrome is a string that is equal when read from left to right or right to left. 
 
 Example: abcdcba 
 
