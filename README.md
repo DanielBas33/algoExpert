@@ -7,7 +7,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 
 |                Question               | Completed | Uploaded to Github |
 |:----------------------------------:|:---------:|:------------------:|
-|           Two Number Sum           |     🟢     |                    |
+|           Two Number Sum           |     🟢     |          🔵          |
 |        Validate Subsequence        |     🟢     |                    |
 |        Sorted Squared Array        |     🟢     |                    |
 |          Tournament Winner         |     🟢     |                    |
