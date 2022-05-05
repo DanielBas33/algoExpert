@@ -7,9 +7,9 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 
 |                Question               | Completed | Uploaded to Github |
 |:----------------------------------:|:---------:|:------------------:|
-|           Two Number Sum           |     🟢     |          🔵          |
-|        Validate Subsequence        |     🟢     |          🔵          |
-|        Sorted Squared Array        |     🟢     |          🔵          |
+|           [Two Number Sum](https://github.com/DanielBas33/algoExpert/blob/main/Easy/TwoNumberSum.md)           |     🟢     |          🔵          |
+|        [Validate Subsequence](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ValidateSubsequence.md)        |     🟢     |          🔵          |
+|        [Sorted Squared Array](https://github.com/DanielBas33/algoExpert/blob/main/Easy/SortedSquaredArray.md)        |     🟢     |          🔵          |
 |          Tournament Winner         |     🟢     |                    |
 |      Non-Constructible Change      |     🟢     |                    |
 |      Find Closest Value In BST     |     🟢     |                    |
@@ -22,12 +22,12 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 | Remove Duplicates From Linked List |     🟢     |                    |
 |            Nth Fibonacci           |     🟢     |                    |
 |             Product Sum            |     🟢     |                    |
-|            Binary Search           |     🟢     |                    |
+|            [Binary Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BinarySearch.md)           |     🟢     |          🔵          |
 |     Find Three Largest Numbers     |     🟢     |                    |
-|             Bubble Sort            |     🟢     |          🔵         |
-|           Insertion Sort           |     🟢     |          🔵         |
-|           Selection Sort           |     🟢     |          🔵         |
-|          Palindrome Check          |     🟢     |          🔵         |
+|             [Bubble Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BubbleSort.md)            |     🟢     |          🔵         |
+|           [Insertion Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/InsertionSort.md)           |     🟢     |          🔵         |
+|           [Selection Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/SelectionSort.md)           |     🟢     |          🔵         |
+|          [Palindrome Check](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Palindrome.md)          |     🟢     |          🔵         |
 |       Caesar Cipher Encryptor      |           |                    |
 |         Run-Length Encoding        |           |                    |
 |          Generate Document         |           |                    |
