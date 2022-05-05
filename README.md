@@ -9,7 +9,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |:----------------------------------:|:---------:|:------------------:|
 |           Two Number Sum           |     🟢     |          🔵          |
 |        Validate Subsequence        |     🟢     |          🔵          |
-|        Sorted Squared Array        |     🟢     |                    |
+|        Sorted Squared Array        |     🟢     |          🔵          |
 |          Tournament Winner         |     🟢     |                    |
 |      Non-Constructible Change      |     🟢     |                    |
 |      Find Closest Value In BST     |     🟢     |                    |
