@@ -15,7 +15,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |          [Tournament Winner](https://github.com/DanielBas33/algoExpert/blob/main/Easy/TournamentWinner.md)         |     🟢     |          🔵          |
 |      [Non-Constructible Change](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Non-ConstructubleChange.md)      |     🟢     |          🔵          |
 |      [Closest Value In BST](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClosestValueBST.md)     |     🟢     |          🔵          |
-|             Branch Sums            |     🟢     |                    |
+|             [Branch Sums](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BranchSums.md)            |     🟢     |          🔵          |
 |             Node Depths            |     🟢     |                    |
 |         Depth-first Search         |     🟢     |                    |
 |        Minimum Waiting Time        |     🟢     |                    |
