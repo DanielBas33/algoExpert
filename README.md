@@ -1,9 +1,11 @@
 # AlgoExpert
-My solutions to [algoExpert.io](https://algoexpert.io) coding questions. 
+All of my learning from [algoExpert.io](https://algoexpert.io). Including my answers to the coding questions and summaries from the data structures crash curse. 
+
+## Coding Questions
 
 These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Hard](#hard) and [Very Hard](#very-hard)
 
-## Easy:
+### Easy:
 
 |                Question               | Completed | Uploaded to Github |
 |:----------------------------------:|:---------:|:------------------:|
@@ -33,17 +35,20 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |          Generate Document         |           |                    |
 |    First Non-Repeating Character   |           |                    |
 
-## Medium:
+### Medium:
 
 |                Question               | Completed | Uploaded to Github |
 |:----------------------------------:|:---------:|:------------------:|
 
-## Hard:
+### Hard:
 
 |                Question               | Completed | Uploaded to Github |
 |:----------------------------------:|:---------:|:------------------:|
 
-## Very Hard:
+### Very Hard:
 
 |                Question               | Completed | Uploaded to Github |
 |:----------------------------------:|:---------:|:------------------:|
+
+
+## Data structures
