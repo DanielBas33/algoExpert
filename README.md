@@ -13,8 +13,8 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |        [Validate Subsequence](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ValidateSubsequence.md)        |     🟢     |          🔵          |
 |        [Sorted Squared Array](https://github.com/DanielBas33/algoExpert/blob/main/Easy/SortedSquaredArray.md)        |     🟢     |          🔵          |
 |          [Tournament Winner](https://github.com/DanielBas33/algoExpert/blob/main/Easy/TournamentWinner.md)         |     🟢     |          🔵          |
-|      [Non-Constructible Change](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Non-ConstructibleChange.md)      |     🟢     |          🔵          |
-|      Find Closest Value In BST     |     🟢     |                    |
+|      [Non-Constructible Change](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Non-ConstructubleChange.md)      |     🟢     |          🔵          |
+|      [Closest Value In BST](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClosestValueBST.md)     |     🟢     |          🔵          |
 |             Branch Sums            |     🟢     |                    |
 |             Node Depths            |     🟢     |                    |
 |         Depth-first Search         |     🟢     |                    |
