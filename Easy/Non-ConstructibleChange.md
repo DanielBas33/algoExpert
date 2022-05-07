@@ -23,7 +23,7 @@ Fourth iteration: CurrentChange = 6 Coin = 5 | CurrentChange + 1 = 7 | The coin 
 
 Up to now we can make 11 in change, 12 is our next objective. If we get a coin equal or smaller than 12 then we could make change up to 23 but if we get a larger one then we can never sum up to 12 which is the case.
 
-Fifth iteration: CurrentChange = 11 Coin = 13 | CurrentChange + 1 = 12 | The coin is bigger than our change + 1 so we Return CurrentChange + 1
+Fifth iteration: CurrentChange = 11 Coin = 13 | CurrentChange + 1 = 12 | The coin is bigger than our change + 1 -> Return CurrentChange + 1
 
 ### Implementation
 
