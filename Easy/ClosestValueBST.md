@@ -8,7 +8,7 @@ A BST is a data structure with a tree form. Each node can have up to two childre
 
 #
 
-### Approach : recursion
+### Approach 1: recursion
 
 The first approach that comes to mind is recursion. This tool works well to traverse through trees as we can just call the same time on the following nodes. We just have to store the current closest node and call the function on the right or left child depending on whether the target value is bigger or smaller than the current node. We stop when we get to the end of the tree and return the current closest variable.
 
@@ -46,7 +46,7 @@ class BST:
 
 #
 
-### Approach : iteratively
+### Approach 2: iteratively
 
 Knowing how to solve the problem with recursion we have to ask if we can improve either of the complexities. The answer is yes, the space complexity could be improved by using iteration instead of recursion for solving the problem. Having an initial node we can use a while loop to traverse through the nodes of the tree similarly to the recursive function.
 

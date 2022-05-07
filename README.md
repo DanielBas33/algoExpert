@@ -16,7 +16,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |      [Non-Constructible Change](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Non-ConstructubleChange.md)      |     🟢     |          🔵          |
 |      [Closest Value In BST](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClosestValueBST.md)     |     🟢     |          🔵          |
 |             [Branch Sums](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BranchSums.md)            |     🟢     |          🔵          |
-|             Node Depths            |     🟢     |                    |
+|             [Node Depths](https://github.com/DanielBas33/algoExpert/blob/main/Easy/NodeDepths.md)            |     🟢     |          🔵          |
 |         Depth-first Search         |     🟢     |                    |
 |        Minimum Waiting Time        |     🟢     |                    |
 |            Class Photos            |     🟢     |                    |
