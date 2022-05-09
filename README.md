@@ -17,7 +17,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |      [Closest Value In BST](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClosestValueBST.md)     |     🟢     |          🔵          |
 |             [Branch Sums](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BranchSums.md)            |     🟢     |          🔵          |
 |             [Node Depths](https://github.com/DanielBas33/algoExpert/blob/main/Easy/NodeDepths.md)            |     🟢     |          🔵          |
-|         Depth-first Search         |     🟢     |                    |
+|         [Depth-first Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Depth-FirstSearch.md)         |     🟢     |          🔵          |
 |        Minimum Waiting Time        |     🟢     |                    |
 |            Class Photos            |     🟢     |                    |
 |           Tandem Bicycle           |     🟢     |                    |
