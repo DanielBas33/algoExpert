@@ -18,7 +18,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |             [Branch Sums](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BranchSums.md)            |     🟢     |          🔵          |
 |             [Node Depths](https://github.com/DanielBas33/algoExpert/blob/main/Easy/NodeDepths.md)            |     🟢     |          🔵          |
 |         [Depth-first Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Depth-FirstSearch.md)         |     🟢     |          🔵          |
-|        Minimum Waiting Time        |     🟢     |                    |
+|        [Minimum Waiting Time](https://github.com/DanielBas33/algoExpert/blob/main/Easy/MinimumWaitingTime.md)        |     🟢     |          🔵          |
 |            Class Photos            |     🟢     |                    |
 |           Tandem Bicycle           |     🟢     |                    |
 | Remove Duplicates From Linked List |     🟢     |                    |
