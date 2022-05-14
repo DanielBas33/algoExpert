@@ -17,14 +17,13 @@ As we saw on the different examples there is a pattern, we want to order the arr
 
 ```python
 def minimumWaitingTime(queries):
-queries.sort()
-subtotal = 0
-sum = 0
-for number in queries[:-1]:
-    
-    sum += number + subtotal
-    subtotal += number
-return sum
+ queries.sort()
+ subtotal = 0
+ sum = 0
+ for number in queries[:-1]:
+  sum += number + subtotal
+  subtotal += number
+ return sum
 ```
 
 ### Complexity Analysis

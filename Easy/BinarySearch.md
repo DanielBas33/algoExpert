@@ -1,10 +1,8 @@
 # Binary Search
 
-### Understanding the problem
+## Understanding the problem
 
 Given a sorted array of integers and a target integer, I am asked to write a function that uses Binary Search algorithm to find out if the target integer is in the array. If the target is in the array, the function should return its index, otherwise return `-1`.
-
-#
 
 ### Approach 1: Iterative
 
@@ -17,17 +15,17 @@ We maintain two pointers `left` and `right` that are going to define the current
 ```python
 def binarySearch(array, target):
     leftIdx = 0
-	rightIdx = len(array) - 1
+ rightIdx = len(array) - 1
     
-	while leftIdx <= rightIdx:
-		middleIdx = (leftIdx + rightIdx) //2
-		if array[middleIdx] == target:
-			return middleIdx
-		elif array[middleIdx] < target:
-			leftIdx = middleIdx + 1
-		elif array[middleIdx] > target:
-			rightIdx = middleIdx - 1
-	return -1
+ while leftIdx <= rightIdx:
+  middleIdx = (leftIdx + rightIdx) //2
+  if array[middleIdx] == target:
+   return middleIdx
+  elif array[middleIdx] < target:
+   leftIdx = middleIdx + 1
+  elif array[middleIdx] > target:
+   rightIdx = middleIdx - 1
+return -1
 ```
 
 ### Complexity Analysis
