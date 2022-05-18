@@ -19,7 +19,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |             [Node Depths](https://github.com/DanielBas33/algoExpert/blob/main/Easy/NodeDepths.md)            |     🟢     |          🔵          |
 |         [Depth-first Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Depth-FirstSearch.md)         |     🟢     |          🔵          |
 |        [Minimum Waiting Time](https://github.com/DanielBas33/algoExpert/blob/main/Easy/MinimumWaitingTime.md)        |     🟢     |          🔵          |
-|            Class Photos            |     🟢     |                    |
+|            [Class Photos](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClassPhotos.md)            |     🟢     |          🔵          |
 |           Tandem Bicycle           |     🟢     |                    |
 | Remove Duplicates From Linked List |     🟢     |                    |
 |            Nth Fibonacci           |     🟢     |                    |
