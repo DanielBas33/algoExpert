@@ -20,7 +20,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |         [Depth-first Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Depth-FirstSearch.md)         |     🟢     |          🔵          |
 |        [Minimum Waiting Time](https://github.com/DanielBas33/algoExpert/blob/main/Easy/MinimumWaitingTime.md)        |     🟢     |          🔵          |
 |            [Class Photos](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClassPhotos.md)            |     🟢     |          🔵          |
-|           Tandem Bicycle           |     🟢     |                    |
+|           [Tandem Bicycle](https://github.com/DanielBas33/algoExpert/blob/main/Easy/TandemBicycle.md)           |     🟢     |          🔵          |
 | Remove Duplicates From Linked List |     🟢     |                    |
 |            Nth Fibonacci           |     🟢     |                    |
 |             Product Sum            |     🟢     |                    |
