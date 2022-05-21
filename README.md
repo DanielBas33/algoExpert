@@ -21,7 +21,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |        [Minimum Waiting Time](https://github.com/DanielBas33/algoExpert/blob/main/Easy/MinimumWaitingTime.md)        |     🟢     |          🔵          |
 |            [Class Photos](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClassPhotos.md)            |     🟢     |          🔵          |
 |           [Tandem Bicycle](https://github.com/DanielBas33/algoExpert/blob/main/Easy/TandemBicycle.md)           |     🟢     |          🔵          |
-| Remove Duplicates From Linked List |     🟢     |                    |
+| [Remove Duplicates From Linked List](https://github.com/DanielBas33/algoExpert/blob/main/Easy/RemoveDuplicatesLinkedList.md) |     🟢     |          🔵          |
 |            Nth Fibonacci           |     🟢     |                    |
 |             Product Sum            |     🟢     |                    |
 |            [Binary Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BinarySearch.md)           |     🟢     |          🔵          |
