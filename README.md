@@ -22,7 +22,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |            [Class Photos](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ClassPhotos.md)            |     🟢     |          🔵          |
 |           [Tandem Bicycle](https://github.com/DanielBas33/algoExpert/blob/main/Easy/TandemBicycle.md)           |     🟢     |          🔵          |
 | [Remove Duplicates From Linked List](https://github.com/DanielBas33/algoExpert/blob/main/Easy/RemoveDuplicatesLinkedList.md) |     🟢     |          🔵          |
-|            Nth Fibonacci           |     🟢     |                    |
+|            [Nth Fibonacci](https://github.com/DanielBas33/algoExpert/blob/main/Easy/NthFibonacci.md)           |     🟢     |                    |
 |             Product Sum            |     🟢     |                    |
 |            [Binary Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BinarySearch.md)           |     🟢     |          🔵          |
 |     Find Three Largest Numbers     |     🟢     |                    |
