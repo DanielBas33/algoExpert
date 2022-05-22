@@ -5,8 +5,9 @@
 Given a "special" array return its product sum. A "special" arrayt is a non-empty array that contains either integers or other "special" arrays. 
 The product sum is the sum of its elements where the arrays inside are also summed and multiplied by their level of depth.
 
-Example: `[x,y]` The product sum is x + y 
-         `[x,y,[z,c]]` The product sum is x + y + 2 * (x + c)
+Example:<br/>
+`[x,y]` The product sum is x + y <br/>
+`[x,y,[z,c]]` The product sum is x + y + 2 * (x + c)
 
 #
 
