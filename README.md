@@ -25,7 +25,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |            [Nth Fibonacci](https://github.com/DanielBas33/algoExpert/blob/main/Easy/NthFibonacci.md)           |     🟢     |          🔵          |
 |             [Product Sum](https://github.com/DanielBas33/algoExpert/blob/main/Easy/ProductSum.md)            |     🟢     |          🔵          |
 |            [Binary Search](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BinarySearch.md)           |     🟢     |          🔵          |
-|     Find Three Largest Numbers     |     🟢     |                    |
+|     [Find Three Largest Numbers](https://github.com/DanielBas33/algoExpert/blob/main/Easy/FindThreeLargestNumbers.md)     |     🟢     |          🔵          |
 |             [Bubble Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/BubbleSort.md)            |     🟢     |          🔵         |
 |           [Insertion Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/InsertionSort.md)           |     🟢     |          🔵         |
 |           [Selection Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/SelectionSort.md)           |     🟢     |          🔵         |
