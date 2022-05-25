@@ -30,7 +30,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |           [Insertion Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/InsertionSort.md)           |     🟢     |          🔵         |
 |           [Selection Sort](https://github.com/DanielBas33/algoExpert/blob/main/Easy/SelectionSort.md)           |     🟢     |          🔵         |
 |          [Palindrome Check](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Palindrome.md)          |     🟢     |          🔵         |
-|       Caesar Cipher Encryptor      |           |                    |
+|       [Caesar Cipher Encryptor](https://github.com/DanielBas33/algoExpert/blob/main/Easy/CaesarCipherEncryptor.md)      |     🟢     |          🔵         |
 |         Run-Length Encoding        |           |                    |
 |          Generate Document         |           |                    |
 |    First Non-Repeating Character   |           |                    |
