@@ -31,7 +31,7 @@ def getNewLetter(letter, key):
 
 ### Complexity Analysis
 
-- Time Complexity: O(). Where n is the number of letters in the string.
+- Time Complexity: O(n). Where n is the number of letters in the string.
 
 - Space Complexity: O(n). Where n is the number of letters in the string.
 
