@@ -32,7 +32,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 |          [Palindrome Check](https://github.com/DanielBas33/algoExpert/blob/main/Easy/Palindrome.md)          |     🟢     |          🔵         |
 |       [Caesar Cipher Encryptor](https://github.com/DanielBas33/algoExpert/blob/main/Easy/CaesarCipherEncryptor.md)      |     🟢     |          🔵         |
 |         [Run-Length Encoding](https://github.com/DanielBas33/algoExpert/blob/main/Easy/RunLengthEncoding.md)        |     🟢     |          🔵         |
-|          Generate Document         |           |                    |
+|          [Generate Document](https://github.com/DanielBas33/algoExpert/blob/main/Easy/GenerateDocument.md)         |     🟢     |          🔵         |
 |    First Non-Repeating Character   |           |                    |
 
 ### Medium:
