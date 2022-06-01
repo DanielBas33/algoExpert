@@ -52,3 +52,5 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 
 
 ## Data structures
+
+- [Complexity analysis, Memory and Big O Notation](https://github.com/DanielBas33/algoExpert/blob/main/Data%20structures/ComplexityAnalysisMemoryBigO.md)
