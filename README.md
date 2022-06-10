@@ -39,6 +39,7 @@ These questions are grouped by Difficulty: [Easy](#easy), [Medium](#medium), [Ha
 
 |                Question               | Completed | Uploaded to Github |
 |:----------------------------------:|:---------:|:------------------:|
+|    [Three Number Sum](https://github.com/DanielBas33/algoExpert/blob/main/Medium/ThreeNumberSum.md)   |     🟢     |          🔵         |
 
 ### Hard:
 
